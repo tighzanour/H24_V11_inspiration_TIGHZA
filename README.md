@@ -1,1 +1,0 @@
-# H24_V11_inspiration_TIGHZA
