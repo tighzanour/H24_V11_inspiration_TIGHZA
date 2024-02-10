@@ -1,4 +1,4 @@
-# Nom de l'exposition:
+#  - Nom de l'exposition:
 ## Jeremy Shaw Phase Shifting Index
 # Type d'exposition:
 ## Temporaire
