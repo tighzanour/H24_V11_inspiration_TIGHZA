@@ -18,22 +18,23 @@
 ![photo](photo.jpg)
 
 # Précision techniques
-## Il est important de parler du travail technique accompli pour garrantir un tel résultat. Voici ce que j'en ai appris: 
-## - La mise en espace 
-##
-# Composants et techniques 
-##
-# Éléments nécessaires à la mise en exposition
-##
-# Expérience vécue
-##
-# Ce qui m'a plu
+## Il est important de parler du travail technique accompli pour garrantir un tel résultat. Ces paramètres techniques sont nécessaires à l'exposition pour l'**immersion** ainsi que la **contemplation**. Voici ce que j'en ai appris: 
+## - Comme indiqué plus haut, le sol est recouvert d'un tapis confortable et contient aussi des endroits pour s'asseoir, permettant aux spectateurs de profiter de différents angles de vues pour contempler les écrans.
+![photo](photo.jpg)
+
+## - Ce sont des hauts parleurs puissants et efficaces qui participent grandement à l'immersion que propose l'oeuvre. Ils sont placés à des endroits stratégiques, notamment les ''sub'' qui sont cachés dans les coins de la salle et permettent d'envoyer des fréquences graves. 
+![photo](photo.jpg)
+
+## - Il y a evidemment des projecteurs pour les écrans et la lumière dynamique, ceux-ci sont aussi placés de manière réfléchie afin d'intensifier l'immersion. 
+![photo](photo.jpg)
+
+# Mon expérience  
+## Voici les aspects qui m'ont plus à cette exposition:
 - Les informations disponibles pour mieux comprendre l'oeuvre
 - La synchronisation des écrans entre eux
 - La manière dont les écrans ont été placés
 - Le travail sonore effectué dans la pièce
 - Les détails en lien avec l'expérience (tapis, distance des ecrans par rapport aux bancs,etc)
-# Aspects que je ne retiendrais pas ou ferais autrement
-## À certains moments, le jeu de lumière devient agressif sans avertissement. Je pense qu'il serait important de penser davantage aux potencielles réactions négatives face aux écrans.
+##  Voici l'aspect qui me dérange/ que j'apprécie moins:
+- À certains moments, le jeu de lumière devient agressif sans avertissement. Je pense qu'il serait important de penser davantage aux potencielles réactions négatives face aux écrans.
 
-![photo](photo.jpg)
