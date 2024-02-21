@@ -9,13 +9,13 @@
 ![photo](photo.jpg)
 
 # ⭐ Déroulement de l'exposition
-## 1) L'exposition débute en affichant sur les écrans des vidéos intriguantes. Chacune de ces vidéos comprend des groupes qui semblent danser, effectuer des chorégraphies et parler de façon explicative. 
+## - L'exposition débute en affichant sur les écrans des vidéos intriguantes. Chacune de ces vidéos comprend des groupes qui semblent danser, effectuer des chorégraphies et parler de façon explicative. 
 ![photo](photo.jpg)
 
-## 2) Quelques minutes plus tard, les vidéos se synchronisent entre-elles et l'ambiance change d'un coup. Les groupes qui dansaient semblent ensuite entrer dans un état de trans. Un jeu de son et de lumière est effectué pendant cette phase. 
+## - Quelques minutes plus tard, les vidéos se synchronisent entre-elles et l'ambiance change d'un coup. Les groupes qui dansaient semblent ensuite entrer dans un état de trans. Un jeu de son et de lumière est effectué pendant cette phase. 
 ![photo](photo.jpg)
 
-## 3) Ensuite, l'ambiance change à nouveau. La salle est calme et les écrans affichent des images colorées, à la fois étranges et captivantes. Cela dure un instant, avant de laisser place à un point de vue sur l'état des groupes une fois que leur expérience a pris fin. Ces derniers, reviennent à leur état normal, plus calme mais tout de même de confusion. 
+## - Ensuite, l'ambiance change à nouveau. La salle est calme et les écrans affichent des images colorées, à la fois étranges et captivantes. Cela dure un instant, avant de laisser place à un point de vue sur l'état des groupes une fois que leur expérience a pris fin. Ces derniers, reviennent à leur état normal, plus calme mais tout de même de confusion. 
 ![photo](photo.jpg)
 
 # ⭐ Précision techniques
