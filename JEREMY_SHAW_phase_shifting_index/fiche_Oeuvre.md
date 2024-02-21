@@ -8,7 +8,8 @@
 ## L'oeuvre se présente ainsi: Il s'agit d'une grande salle sombre avec un sol recouvert d'un tapis gris. Il y a dans la salle plusieurs endroits pour s'asseoir et profiter de différents angles de vues portant sur les 7 grand écrans qui composent l'oeuvre. Ces écrans sont surrélevés et maintenus par de fins fils noirs qui donnent l'impression qu'ils flottent.
 ![photo](photo.jpg)
 
-## 1) L'oeuvre débute en affichant sur les écrans des vidéos intriguantes. Chacune de ces vidéos comprend des groupes qui semblent danser, effectuer des chorégraphies et parler de façon explicative. 
+# ⭐ Déroulement de l'exposition
+## 1) L'exposition débute en affichant sur les écrans des vidéos intriguantes. Chacune de ces vidéos comprend des groupes qui semblent danser, effectuer des chorégraphies et parler de façon explicative. 
 ![photo](photo.jpg)
 
 ## 2) Quelques minutes plus tard, les vidéos se synchronisent entre-elles et l'ambiance change d'un coup. Les groupes qui dansaient semblent ensuite entrer dans un état de trans. Un jeu de son et de lumière est effectué pendant cette phase. 
