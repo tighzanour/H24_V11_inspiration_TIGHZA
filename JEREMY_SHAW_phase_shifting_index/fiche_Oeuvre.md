@@ -10,7 +10,7 @@
 # ⭐ Déroulement de l'exposition
  - L'exposition débute en affichant sur les écrans des vidéos intriguantes. Chacune de ces vidéos comprend des groupes qui semblent danser, effectuer des chorégraphies et parler de façon explicative.
    
-!(photo_oeuvre_12.png)](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/JEREMY_SHAW_phase_shifting_index/media/photo_oeuvre_12.png)
+![(photo_oeuvre_12.png](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/JEREMY_SHAW_phase_shifting_index/media/photo_oeuvre_12.png)
 
 - Quelques minutes plus tard, les vidéos se synchronisent entre-elles et l'ambiance change d'un coup. Les groupes qui dansaient semblent ensuite entrer dans un état de trans. Un jeu de son et de lumière est effectué pendant cette phase. Les images et le son deviennent perturbants.
   
