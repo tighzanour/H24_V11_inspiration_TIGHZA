@@ -1,9 +1,9 @@
 # ⭐ Exposition ''Jeremy Shaw Phase Shifting Index''
- Nous avons visité l'exposition nommée ''Phase Shifting Index 2024'' par Jeremy Shaw le 31 janvier à la Fonderie Darling.
+ Nous avons visité l'exposition nommée ''Phase Shifting Index 2020'' par Jeremy Shaw le 31 janvier à la Fonderie Darling.
  
 ![photo](photo.jpg)
 
- Cette exposition temporaire a été réalisée en 2023 et a été exposée a différents endroits mais, par défaut, au centre Pompidou, à Paris.
+ Cette exposition temporaire a été réalisée en 2020 et a été exposée a différents endroits mais, par défaut, au centre Pompidou, à Paris.
  
 ![photo](photo.jpg)
 
