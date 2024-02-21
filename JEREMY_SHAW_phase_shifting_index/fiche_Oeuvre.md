@@ -1,7 +1,7 @@
 # ⭐ Exposition ''Jeremy Shaw Phase Shifting Index''
  Nous avons visité l'exposition nommée ''Phase Shifting Index 2020'' par Jeremy Shaw le 31 janvier à la Fonderie Darling. Cette exposition temporaire a été réalisée en 2020 et a été exposée a différents endroits mais, par défaut, au centre Pompidou, à Paris.
  
-![photo](photo_fiche.png)
+![photo_fiche.png](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/JEREMY_SHAW_phase_shifting_index/media/photo_fiche.png)
 
  L'oeuvre se présente ainsi: Il s'agit d'une grande salle sombre avec un sol recouvert d'un tapis gris. Il y a dans la salle plusieurs endroits pour s'asseoir et profiter de différents angles de vues portant sur les 7 grand écrans qui composent l'oeuvre. Ces écrans sont surrélevés et maintenus par de fins fils noirs qui donnent l'impression qu'ils flottent.
  
