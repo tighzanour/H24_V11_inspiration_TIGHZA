@@ -29,12 +29,13 @@
 ![photo_oeuvre_8.png](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/JEREMY_SHAW_phase_shifting_index/media/photo_oeuvre_8.png)
 
 # ⭐ Mon expérience  
- **Voici les aspects qui m'ont plus à cette exposition:**
+**Voici les aspects qui m'ont plus à cette exposition:**
 - Les informations disponibles pour mieux comprendre l'oeuvre
 - La synchronisation des écrans entre eux
 - La manière dont les écrans ont été placés
 - Le travail sonore effectué dans la pièce
 - Les détails en lien avec l'expérience (tapis, distance des ecrans par rapport aux bancs,etc)
- **Voici l'aspect qui me dérange/ que j'apprécie moins:**
+  
+**Voici l'aspect qui me dérange/ que j'apprécie moins:**
 - À certains moments, le jeu de lumière devient agressif sans avertissement. Je pense qu'il serait important de penser davantage aux potencielles réactions négatives face aux écrans.
 
