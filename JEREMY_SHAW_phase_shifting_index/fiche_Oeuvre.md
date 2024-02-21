@@ -1,4 +1,4 @@
-# Exposition ''Jeremy Shaw Phase Shifting Index''
+# ● Exposition ''Jeremy Shaw Phase Shifting Index''
 ## Nous avons visité l'exposition nommée ''Phase Shifting Index 2024'' par Jeremy Shaw le 31 janvier à la Fonderie Darling.
 ![photo](photo.jpg)
 
@@ -17,7 +17,7 @@
 ## Ensuite, l'ambiance change à nouveau. La salle est calme et les écrans affichent des images colorées, à la fois étranges et captivantes. Cela dure un instant, avant de laisser place à un point de vue sur l'état des groupes une fois que leur expérience a pris fin. Ces derniers, reviennent à leur état normal, plus calme mais tout de même de confusion. 
 ![photo](photo.jpg)
 
-# Précision techniques
+# ● Précision techniques
 ## Il est important de parler du travail technique accompli pour garrantir un tel résultat. Ces paramètres techniques sont nécessaires à l'exposition pour l'**immersion** ainsi que la **contemplation**. Voici ce que j'en ai appris: 
 ## - Comme indiqué plus haut, le sol est recouvert d'un tapis confortable et contient aussi des endroits pour s'asseoir, permettant aux spectateurs de profiter de différents angles de vues pour contempler les écrans.
 ![photo](photo.jpg)
@@ -28,7 +28,7 @@
 ## - Il y a evidemment des projecteurs pour les écrans et la lumière dynamique, ceux-ci sont aussi placés de manière réfléchie afin d'intensifier l'immersion. 
 ![photo](photo.jpg)
 
-# Mon expérience  
+# ● Mon expérience  
 ## Voici les aspects qui m'ont plus à cette exposition:
 - Les informations disponibles pour mieux comprendre l'oeuvre
 - La synchronisation des écrans entre eux
