@@ -1,1 +1,2 @@
-
+# Conférence par Jade Séguéva 
+Rafael Lozano-Hemmer est un artiste multimédia à la tête de plusieurs oeuvres. Avec son équipe, ils ont popularisé de nombreuses créations à l'internationale. Parmi les membres de l'équipe, la registaire, Jade Séguéva, nous a fait une conférence autour de son quotidien et celui de son équipe. Lors de cette conférence, Jade nous présente quelques oeuvres et nous explique, dans les détails, comment leur équipe de travail fonctionne et quelles méthodes celle-ci utilise.
