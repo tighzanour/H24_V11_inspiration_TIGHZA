@@ -5,4 +5,4 @@ Le studio dans lequel Jade travaille se nomme Antimodular, et est fondé par Raf
 
 C'était, selon moi, une conférence enrichissante pour les personnes qui s'intéressent au domaine multimédia.
 
-![translation_stream](translation_stream.jpg)
+![translation_stream]([translation_stream.jpg](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/conference/media/translation_stream.jpg))
