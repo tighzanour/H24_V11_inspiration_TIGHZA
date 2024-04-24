@@ -4,3 +4,5 @@ Rafael Lozano-Hemmer est un artiste multimédia à la tête de plusieurs oeuvres
 Le studio dans lequel Jade travaille se nomme Antimodular, et est fondé par Rafael Lozano-Hemmer. Ce studio d'artiste, situé à Montréal, est consacré au développement et à la présentation d'oeuvres multimédias. Le studio implique une équipe d'un peu plus de 20 employés. Parmi eux, il y a de nombreux rôles différents pour développer, faire fonctionner et présenter les oeuvres. Il y a donc des architectes, des programmeurs, des artistes, des scientifiques, des écrivains, des designers ainsi que des musiciens. Ainsi, cette équipe diversifiée est parfaite pour réaliser des projets multimédias. Jade Séguéva nous explique l'importance de documenter. Elle nous a montré de quelle façon elle prennait tout en note avant l'envoie des objets. Ces derniers sont tous documentés avec un maximum de détails. Son rôle est primordial, notamment pour éviter les perte.
 
 C'était, selon moi, une conférence enrichissante pour les personnes qui s'intéressent au domaine multimédia.
+
+![translation_stream](translation_stream.jpg)
