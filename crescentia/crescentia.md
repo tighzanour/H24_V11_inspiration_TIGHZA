@@ -9,7 +9,7 @@ ________________________________________________________________________________
 # Rhizomatique
 - Cette oeuvre a été réalisée par Jolyanne Desjardins, Maika Désy, Laurie Houde, Felix Testa Radovanovic
   
-[image]()
+![](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/crescentia/medias/rhizomatique.PNG)
 
 ## Concept
 ### En intéragissant avec une toile, les visiteurs peuvent naviguer dans des souvenirs. Ceux-ci sont projetés sur un grand mur. Cette oeuvre a pour objectif de faire oublier le temps aux visiteurs en simulant un retour dans le passé d'une personne inconnue.
@@ -49,7 +49,7 @@ ________________________________________________________________________________
 # Kigo
 - Cette oeuvre a été réalisée par Érick Ouelette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion
 
-[image]()
+![](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/crescentia/medias/kigo.PNG)
 
 ## Concept
 ### Il s'agit d'un jeu intéractif et assez sportif où le joueur est chargé d'esquiver des obstacles avec son corps. La difficulté du jeu augmente proportionnellement au temps qui passe. Par la même logique, l'esthétique du jeu change en représentant les quatres saisons de l'année. Celle-ci est inspirée du style visuel ''néon rétro''.
@@ -68,7 +68,7 @@ ________________________________________________________________________________
 # Sonalux
 - Cette oeuvre a été réalisée par Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins
 
-[image]()
+![](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/crescentia/medias/sonalux.PNG)
 
 ## Concept (Grand studio)
 ### C'est une installation basée sur la génération artistique. Les visiteurs sont invités à intéragir avec des boutons qui génèrent des sons et des images sur les murs qui les entourent. L'objectif de cette oeuvre est de placer les visiteurs dans un espace sensoriellement immersif.
