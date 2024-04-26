@@ -19,6 +19,13 @@ ________________________________________________________________________________
 
 [Schéma de plantation]()
 
+## Principaux équipements 
+- Toile de spandex 30x40 pouces
+- Cyclorama
+- Hauts parleurs
+- Kinects
+- Ordinateur portable
+- Projecteurs
 _____________________________________________________________________________________________________________
 # Effet-Papillon
 - Cette oeuvre a été réalisée par Raphael Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev, Jasmine Lapierre 
@@ -33,6 +40,9 @@ ________________________________________________________________________________
 
 [Schéma de plantation]()
 
+## Principaux équipements 
+- Écrans Rasberry Pi
+- 
 _____________________________________________________________________________________________________________
 # Kigo
 - Cette oeuvre a été réalisée par Érick Ouelette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion
@@ -46,6 +56,8 @@ ________________________________________________________________________________
 ### L'installation de cette oeuvre est très intuitive. On trouve, au centre, une grande zone qui délimites le déplacement du joueur. Derrière cette zone, il y a un projecteur placé en hauteur pour projeter le jeu sur le mur de devant. Devant le joueur se trouve une ''kinect'' qui permet de traquer les mouvements du joueur. Sur les cotés de la projections sont placés deux hauts-parleurs. Finalement, les dispositifs sont reliés à un ordinateur ainsi qu'une console de sons qui se situent sur un bureau à quelques mètres de la zone de jeu.
 
 [Schéma de plantation]()
+
+## Principaux équipements 
 
 _____________________________________________________________________________________________________________
 # Sonalux
@@ -61,3 +73,5 @@ ________________________________________________________________________________
 
 
 [Schéma de plantation]()
+
+## Principaux équipements 
