@@ -42,7 +42,9 @@ ________________________________________________________________________________
 
 ## Principaux équipements 
 - Écrans Rasberry Pi
-- 
+- Projecteurs
+- Valve à eau
+- Lumières (guirelandes)
 _____________________________________________________________________________________________________________
 # Kigo
 - Cette oeuvre a été réalisée par Érick Ouelette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion
@@ -58,7 +60,10 @@ ________________________________________________________________________________
 [Schéma de plantation]()
 
 ## Principaux équipements 
-
+- Console de son
+- Haut-parleurs
+- Ordinateur portable
+- Projecteurs
 _____________________________________________________________________________________________________________
 # Sonalux
 - Cette oeuvre a été réalisée par Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins
@@ -75,3 +80,8 @@ ________________________________________________________________________________
 [Schéma de plantation]()
 
 ## Principaux équipements 
+- Hauts parleurs
+- Casques d'écoute
+- Spotlight
+- Ordinateur portable
+- Podium
