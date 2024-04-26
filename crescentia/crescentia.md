@@ -1,4 +1,4 @@
-<h1> Crescentia </h1>
+# Crecsentia
 ## Cette exposition est basée sur le concept de l'évolution dans son sens général. Elle a été réalisée par les étudiants de la technique d'intégration multimédia du collège Montmorency pour leur projet final du programme. Leurs créations appellent les visiteurs à intéragir et à constater les oeuvres évoluer en temps réel.
 
 ![](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/crescentia/medias/crescentia%20logo.PNG)
