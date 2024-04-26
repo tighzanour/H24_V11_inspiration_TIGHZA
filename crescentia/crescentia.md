@@ -8,6 +8,7 @@ L'exposition se passe en intérieur, dans les studios du collège Montmorency. E
 
 # Rhizomatique
 Cette oeuvre a été réalisée par Jolyanne Desjardins, Maika Désy, Laurie Houde, Felix Testa Radovanovic
+
 [image]()
 
 ## Concept
@@ -15,6 +16,7 @@ Cette oeuvre a été réalisée par Jolyanne Desjardins, Maika Désy, Laurie Hou
 
 # Effet-Papillon
 Cette oeuvre a été réalisée par Raphael Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev, Jasmine Lapierre 
+
 [image]()
 
 ## Concept
@@ -22,6 +24,7 @@ Cette oeuvre a été réalisée par Raphael Dumont, Alexis Bolduc, William Morel
 
 # Kigo
 Cette oeuvre a été réalisée par Érick Ouelette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion
+
 [image]()
 
 ## Concept
@@ -29,6 +32,7 @@ Cette oeuvre a été réalisée par Érick Ouelette, William Rathier Mailly, Gab
 
 # Sonalux
 Cette oeuvre a été réalisée par Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins
+
 [image]()
 
 ## Concept
