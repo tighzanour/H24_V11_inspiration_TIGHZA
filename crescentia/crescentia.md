@@ -42,8 +42,8 @@ ________________________________________________________________________________
 ## Concept
 ### Il s'agit d'un jeu intéractif et assez sportif où le joueur est chargé d'esquiver des obstacles avec son corps. La difficulté du jeu augmente proportionnellement au temps qui passe. Par la même logique, l'esthétique du jeu change en représentant les quatres saisons de l'année. Celle-ci est inspirée du style visuel ''néon rétro''.
 
-## Installation
-### 
+## Installation (Grand studio)
+### L'installation de cette oeuvre est très intuitive. On trouve, au centre, une grande zone qui délimites le déplacement du joueur. Derrière cette zone, il y a un projecteur placé en hauteur pour projeter le jeu sur le mur de devant. Devant le joueur se trouve une ''kinect'' qui permet de traquer les mouvements du joueur. Sur les cotés de la projections sont placés deux hauts-parleurs. Finalement, les dispositifs sont reliés à un ordinateur ainsi qu'une console de sons qui se situent sur un bureau à quelques mètres de la zone de jeu.
 
 [Schéma de plantation]()
 
@@ -53,7 +53,7 @@ ________________________________________________________________________________
 
 [image]()
 
-## Concept
+## Concept (Grand studio)
 ### C'est une installation basée sur la génération artistique. Les visiteurs sont invités à intéragir avec des boutons qui génèrent des sons et des images sur les murs qui les entourent. L'objectif de cette oeuvre est de placer les visiteurs dans un espace sensoriellement immersif.
 
 ## Installation
