@@ -8,7 +8,7 @@ L'exposition se passe en intérieur, dans les studios du collège Montmorency. E
 _____________________________________________________________________________________________________________
 # Rhizomatique
 - Cette oeuvre a été réalisée par Jolyanne Desjardins, Maika Désy, Laurie Houde, Felix Testa Radovanovic
-- 
+  
 [image]()
 
 ## Concept
@@ -57,6 +57,7 @@ ________________________________________________________________________________
 ### C'est une installation basée sur la génération artistique. Les visiteurs sont invités à intéragir avec des boutons qui génèrent des sons et des images sur les murs qui les entourent. L'objectif de cette oeuvre est de placer les visiteurs dans un espace sensoriellement immersif.
 
 ## Installation
-###
+### Cette installtion implique au visiteur de se placer devant un podium. Ce dernier est décoré de tubes de lumières contrôlables. Des murs de 94 pouces entourent le visiteur et participent à une ambiance immersive. Sur ces murs sont projetés différentes scènes. Pour ce faire, trois projecteurs sont disposés à quelques mètres du podium. Chacun d'entres eux projette une partie de scène sur un mur. Toujours en accroché aux plafonds, se trouvent deux hauts-parleurs pour émettre le son généré par l'utilisateur.
+
 
 [Schéma de plantation]()
