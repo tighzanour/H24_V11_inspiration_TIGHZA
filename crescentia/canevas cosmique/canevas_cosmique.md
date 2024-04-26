@@ -1,7 +1,7 @@
 # 🌌 Canevas Cosmique 
 > Parmi les différentes oeuvres créées par les étudiants du collège Montmorency au saint du projet d'exposition ''Crescentia'',  **Canevas Cosmique** est celle que j'apprécie le plus. Voici, une documentation détaillée du projet:
 
-![]()
+![](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/crescentia/medias/canevas_cosmique_logo.PNG)
 
 ## Réalisateurs
 *Jacob Alarie-Brousseau, Étienne Charron, JérémyCholette, Qhoc Huy Do, Mikael Tourangeau*
