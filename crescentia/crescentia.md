@@ -7,7 +7,7 @@
 > L'exposition se passe en intérieur, dans les studios du collège Montmorency. Elle a été réalisée cette année (2024) et il s'agit d'une exposition avec installations intéractives. Elle constitue au total 5 oeuvres différentes.
 
 # 🧠 Rhizomatique
-- Cette oeuvre a été réalisée par Jolyanne Desjardins, Maika Désy, Laurie Houde, Felix Testa Radovanovic
+== Cette oeuvre a été réalisée par Jolyanne Desjardins, Maika Désy, Laurie Houde, Felix Testa Radovanovic==
   
 ![](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/crescentia/medias/rhizomatique_photo.jpg)
 
