@@ -21,10 +21,11 @@
 ## Installation (Grand studio)
 ### Pour ce qui est de l'installation, l'élément principal de cette oeuvre est sans doute la table. C'est sur celle-ci que les visiteurs intéragissent avec les statuettes qui déclanchent les évènements visibles sur la projection. Sous cette table, il y a 3 éléments primordiaux pour le fonctionnement de l'oeuvre. Un ordinateur portable, un projecteur ainsi qu'une Kinect. Ces éléments permettent l'affichage ainsi que le fonctionnement de l'intéractivité. Un autre projecteur est situé au plafond. Il permet l'affichage 3D des évènements sur le mur. Sur la droite ainsi que la gauche de la projection sont situées des hauts parleurs, émettant les sons conçues pour accentuer l'immersion de l'oeuvre. 
 
+### Schéma de plantation
 ![schéma plantation](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/crescentia/medias/canevas_cosmique_sch%C3%A9ma.PNG)
-
+### Schéma de la table
 ![schéma table](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/crescentia/medias/canvas_cosmique_sch%C3%A9ma_table.png)
-
+### Schéma de branchement
 ![schéma branchement](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/crescentia/medias/canvas_cosmique_sch%C3%A9ma.png)
 
 ## Matériel nécessaire à la réalisation du projet
