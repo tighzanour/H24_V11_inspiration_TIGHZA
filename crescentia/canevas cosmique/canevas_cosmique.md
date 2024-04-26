@@ -27,14 +27,14 @@
 
 ![schéma branchement]()
 
-## Matériel requis
+## Matériel nécessaire à la réalisation du projet
 **Table**
 - Matériaux: Bois, acier, Acrylique, Spandex
 - 38 x 26", 31" de hauteur
 - Statuettes imprimées en 3D
 - Notepad contenant les infos pour l'opération de la table.
 
-## Équipements requis
+## Équipements nécessaire à la réalisation du projet
 **Lumière**
 - 1 Lumière DMX
 
@@ -64,3 +64,14 @@
 **Ordinateur**
 - 1 ordinateur fixe
 - 1 laptop
+
+## Expérience personnelle
+### 20 février 2024: De prime à bord, j'ai laissé ma curiosité prendre le dessus et découvrir de façon intuitive cette oeuvre. Après avoir compris le concept, j'ai jugé que l'oeuvre était intéressante mais sans plus. J'ai trouvé le concept et l'approche qui mène à l'intéractivité des visiteurs très originale. J'ai bien aimé le travail éffectué sur la 3D affichée.
+
+### 7 mars 2024: Lors de la deuxième visite, j'ai constaté que le projet était complété et que plusieurs éléments ont subit des changements rendant, à mon avis, le tout bien plus qualitatif et amusant pour les visiteurs.
+
+### Aspects que j'aurais changé: Il y a plusieurs aspects auquels j'aurais apportés des changements malgré la bonne réalisation du projet. La projection est à mon avis trop petite. Il faudrait donc effectuer la projection sur un espace plus grand pour mieux profiter des images. Je transformerais le tout en jeu car je trouve qu'il n'y a pas de quoi passer davantage de temps sur cette oeuvre. Il faudrait quelque chose de stimulant, comme par exemple des objectifs que les visiteurs doivent effectuer.
+
+### Aspects que j'ai aimé: J'ai beaucoup apprécié le concept en général mais certains aspects m'ont particulièrement intéressés. Notamment la 3D utilisée pour afficher les différents astres, les effets spéciaux de bonne qualité et fluides ainsi que l'approche intéractive de l'oeuvre (placement de statuettetes sur la table).
+
+> Les informations présentés dans cette documentation proviennent de mon expérience personnelle ainsi que de la page TIM des auteurs du projet, consultable [ici](https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html)
