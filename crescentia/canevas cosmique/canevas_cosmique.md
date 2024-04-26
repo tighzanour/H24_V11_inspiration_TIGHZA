@@ -10,6 +10,7 @@
 
 ## Informations
 **Lieu d'exposition:** Collège Montmorency, Grand studio, 475 Bd de l'Avenir, Laval, QC H7N 5H9
+
 **Dates de présentation**: 18 au 21 mars 2024
 
 ## Concept
