@@ -14,7 +14,7 @@ ________________________________________________________________________________
 ## Concept
 ### En intéragissant avec une toile, les visiteurs peuvent naviguer dans des souvenirs. Ceux-ci sont projetés sur un grand mur. Cette oeuvre a pour objectif de faire oublier le temps aux visiteurs en simulant un retour dans le passé d'une personne inconnue.
 
-## Installation 
+## Installation (Grand studio)
 ### L'élément principal de cette oeuvre est la toile avec laquelle les visiteurs doivent intéragir. Elle se trouve juste devant l'intéracteur, sur un podium. Devant, il y a un grand mur ''cyclo'', un mur à droite et un autre à gauche. Ces murs servent à afficher en grandes dimensions les images qui représentent les souvenirs. Elles sont projetés sur les murs grâce à des projecteurs qui se situent sous la toile, en haut à droite ainsi qu'en haut à gauche des murs et ils sont dirrigés vers un point commun apparement le centre du mur du milieu.   
 
 [Schéma de plantation]()
@@ -28,8 +28,8 @@ ________________________________________________________________________________
 ## Concept
 ### Les visiteurs se retrouvent devant une installation immersive. Celle-ci représente le cycle de vie d'un pommier et est inspirée, comme l'indique le titre de l'oeuvre, par l'effet papillon. Les visiteurs sont donc invités à vivre une exprérience sensorielle spéciale.
 
-## Installation
-###
+## Installation (Petit studio)
+### Cette installation est très chargée en contenue, mais donne tout de même un résultat harmonieux. Au centre de la pièce se trouve le pommier. Ce dernier est principalement composé d'écrans et de projecteurs mais contient aussi d'autres éléments important pour le fonctionnement de l'oeuvre. Entre autres, différents types de lumières ainsi que des hauts-parleurs. La pièce elle même fait partie de l'installation. Ainsi, on trouve deux projecteurs dirigés vers le mur, à l'extérieur de l'arbre. Partant du sol et grimpant sur les murs et sur l'arbre, se trouvent des ''fairy lights'' (guirelandes lumineuses). Elles recouvrent une grande partie de la pièce. Il y a aussi des dispositifs interactifs tels que des  interrupteurs et qu'une valve. Finalement, deux haut parleurs sont situés en hauteur, sur les coins de la pièce.
 
 [Schéma de plantation]()
 
@@ -43,7 +43,7 @@ ________________________________________________________________________________
 ### Il s'agit d'un jeu intéractif et assez sportif où le joueur est chargé d'esquiver des obstacles avec son corps. La difficulté du jeu augmente proportionnellement au temps qui passe. Par la même logique, l'esthétique du jeu change en représentant les quatres saisons de l'année. Celle-ci est inspirée du style visuel ''néon rétro''.
 
 ## Installation
-###
+### 
 
 [Schéma de plantation]()
 
