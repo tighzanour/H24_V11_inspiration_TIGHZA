@@ -5,7 +5,7 @@
 
 > ## Informations 
 > L'exposition se passe en intérieur, dans les studios du collège Montmorency. Elle a été réalisée cette année (2024) et il s'agit d'une exposition avec installations intéractives. Elle constitue au total 5 oeuvres différentes.
-_____________________________________________________________________________________________________________
+
 # 🧠 Rhizomatique
 - Cette oeuvre a été réalisée par Jolyanne Desjardins, Maika Désy, Laurie Houde, Felix Testa Radovanovic
   
