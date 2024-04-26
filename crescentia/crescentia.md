@@ -1,5 +1,5 @@
 # Crescentia
-## Cette exposition est basée sur le concept de l'évolution dans son sens général. Elle a été réalisée par les étudiants de la technique d'intégration multimédia du collège Montmorency pour leur projet final du programme. Leurs créations appellent les visiteurs à intéragir et constater les oeuvres évoluer en temps réel.
+## Cette exposition est basée sur le concept de l'évolution dans son sens général. Elle a été réalisée par les étudiants de la technique d'intégration multimédia du collège Montmorency pour leur projet final du programme. Leurs créations appellent les visiteurs à intéragir et à constater les oeuvres évoluer en temps réel.
 
 [image]()
 
