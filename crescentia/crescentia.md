@@ -6,7 +6,7 @@
 ## Informations 
 L'exposition se passe en intérieur, dans les studios du collège Montmorency. Elle a été réalisée cette année (2024) et il s'agit d'une exposition avec installations intéractives. Elle constitue au total 5 oeuvres différentes.
 _____________________________________________________________________________________________________________
-# Rhizomatique
+# 🧠 Rhizomatique
 - Cette oeuvre a été réalisée par Jolyanne Desjardins, Maika Désy, Laurie Houde, Felix Testa Radovanovic
   
 ![](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/crescentia/medias/rhizomatique_photo.jpg)
@@ -27,7 +27,7 @@ ________________________________________________________________________________
 - Ordinateur portable
 - Projecteurs
 _____________________________________________________________________________________________________________
-# Effet-Papillon
+# 🦋 Effet-Papillon
 - Cette oeuvre a été réalisée par Raphael Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev, Jasmine Lapierre 
 
 ![](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/crescentia/medias/effet_papillon_photo.jpg)
@@ -46,7 +46,7 @@ ________________________________________________________________________________
 - Valve à eau
 - Lumières (guirelandes)
 _____________________________________________________________________________________________________________
-# Kigo
+# ⛩️ Kigo
 - Cette oeuvre a été réalisée par Érick Ouelette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion
 
 ![](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/crescentia/medias/kigo_photo.jpg)
@@ -65,7 +65,7 @@ ________________________________________________________________________________
 - Ordinateur portable
 - Projecteurs
 _____________________________________________________________________________________________________________
-# Sonalux
+# 🎹 Sonalux
 - Cette oeuvre a été réalisée par Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins
 
 ![](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/crescentia/medias/sonalux_photo.jpg)
