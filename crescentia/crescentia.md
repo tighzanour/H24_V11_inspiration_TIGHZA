@@ -17,13 +17,16 @@ Cette oeuvre a été réalisée par Jolyanne Desjardins, Maika Désy, Laurie Hou
 [image]()
 
 ### Concept
+# Les visiteurs se retrouvent devant une installation immersive. Celle-ci représente le cycle de vie d'un pommier et est inspirée, comme l'indique le titre de l'oeuvre, par l'effet papillon. Les visiteurs sont donc invités à vivre une exprérience sensorielle spéciale. 
 
 # Kigo
 [image]()
 
 ### Concept
+# Il s'agit d'un jeu intéractif et assez sportif où le joueur est chargé d'esquiver des obstacles avec son corps. La difficulté du jeu augmente proportionnellement au temps qui passe. Par la même logique, l'esthétique du jeu change en représentant les quatres saisons de l'année. Celle-ci est inspirée du style visuel ''néon rétro''.
 
 # Sonalux
 [image]()
 
 ### Concept
+# 
