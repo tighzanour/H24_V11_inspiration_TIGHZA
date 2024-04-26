@@ -33,18 +33,22 @@
 ## Équipements requis
 **Lumière**
 - 1 Lumière DMX
+
 **Audio**
 - 2 haut-parleurs
 - 5 fils XLR 3 conducteurs de 15' (M->F)
 - 1 carte de son
+
 **Vidéo**
 - 1 projecteur vidéo shortrow
 - 1 projo ultra short-throw
 - 3 système d'acrochage
 - 1 KinectV2
+
 **Électricité**
 - 2 cordon IEC (pour l'alimentation des haut-parleurs)
 - 4 Multiprises
+
 **Réseau**
 - Switch poe 1 port
 - Switch Ethernet 3 ports
@@ -52,6 +56,7 @@
 - 4 Cables HDMI
 - 2 Receivers HDMI
 - 2 Sender HDMI
+
 **Ordinateur**
 - 1 ordinateur fixe
 - 1 laptop
