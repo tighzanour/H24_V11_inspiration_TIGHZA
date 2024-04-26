@@ -38,7 +38,7 @@ ________________________________________________________________________________
 ## Installation (Petit studio)
 ### Cette installation est très chargée en contenue, mais donne tout de même un résultat harmonieux. Au centre de la pièce se trouve le pommier. Ce dernier est principalement composé d'écrans et de projecteurs mais contient aussi d'autres éléments important pour le fonctionnement de l'oeuvre. Entre autres, différents types de lumières ainsi que des hauts-parleurs. La pièce elle même fait partie de l'installation. Ainsi, on trouve deux projecteurs dirigés vers le mur, à l'extérieur de l'arbre. Partant du sol et grimpant sur les murs et sur l'arbre, se trouvent des ''fairy lights'' (guirelandes lumineuses). Elles recouvrent une grande partie de la pièce. Il y a aussi des dispositifs interactifs tels que des  interrupteurs et qu'une valve. Finalement, deux haut parleurs sont situés en hauteur, sur les coins de la pièce.
 
-[Schéma de plantation]()
+![](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/crescentia/medias/effet_papillon.PNG)
 
 ## Principaux équipements 
 - Écrans Rasberry Pi
