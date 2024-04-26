@@ -28,7 +28,7 @@
 - Projecteurs
 _____________________________________________________________________________________________________________
 # 🦋 Effet-Papillon
-- Cette oeuvre a été réalisée par Raphael Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev, Jasmine Lapierre 
+*Cette oeuvre a été réalisée par Raphael Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev, Jasmine Lapierre *
 
 ![](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/crescentia/medias/effet_papillon_photo.jpg)
 
@@ -47,7 +47,7 @@ ________________________________________________________________________________
 - Lumières (guirelandes)
 _____________________________________________________________________________________________________________
 # ⛩️ Kigo
-- Cette oeuvre a été réalisée par Érick Ouelette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion
+*Cette oeuvre a été réalisée par Érick Ouelette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion*
 
 ![](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/crescentia/medias/kigo_photo.jpg)
 
@@ -66,7 +66,7 @@ ________________________________________________________________________________
 - Projecteurs
 _____________________________________________________________________________________________________________
 # 🎹 Sonalux
-- Cette oeuvre a été réalisée par Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins
+*Cette oeuvre a été réalisée par Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins*
 
 ![](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/crescentia/medias/sonalux_photo.jpg)
 
