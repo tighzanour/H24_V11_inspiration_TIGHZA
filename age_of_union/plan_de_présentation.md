@@ -13,17 +13,17 @@
 
 ## Description de l'oeuvre
 - Type d'installation: Temporaires
-- Fonction:
-- Mise en espace:
-- Composantes techniques:
-- Terminologie:
+- Objectif: Détente, Contemplation 
+- Mise en espace: Petite pièce décorée.
+- Composantes techniques: Son (hauts-parleurs), Fréquences (Oscillateur à cristal ou Quartz) 
+- Terminologie: 
 
 ## Description de l'expérience vécue 
-- Contextualisation découverte: 
-- Dispositif:
-- Fonctionnement: S'asseoir sur les bancs
+- Contextualisation découverte: Entrée, Ressenti
+- Dispositif: 
+- Fonctionnement: S'asseoir sur les bancs, Contempler
 
 ## Appréciation critique
-- Justification:
-- Exemples: 
+- Justification: qualité visuelle et sonore, effet attendu
+- Exemples: Lumières, Fréquences ressenties, Ambiance ressentie
 
