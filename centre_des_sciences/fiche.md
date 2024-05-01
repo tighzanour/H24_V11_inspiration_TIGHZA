@@ -39,5 +39,6 @@ Voici ce que j'ai appris à propos des paramètres techniques de cette installat
   
 **Voici l'aspect qui me dérange/ que j'apprécie moins:**
 - L'accès aux informations technique est difficile. 
+____________________________________________________________
 
 sources: https://www.centredessciencesdemontreal.com/
