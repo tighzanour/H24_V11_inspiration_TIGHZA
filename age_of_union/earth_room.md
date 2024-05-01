@@ -1,16 +1,19 @@
 # ⭐ Centre des sciences
- Nous avons visité le Centre des sciences le 10 avril dans le Vieux-Port de Montréal. C'est un musée des sciences fondé en 2000. Nous avons consultés plusieurs installations de thèmes diverses.  
+Nous avons visité le Centre des sciences le 10 avril dans le Vieux-Port de Montréal. C'est un musée des sciences fondé en 2000. Nous avons consultés plusieurs installations de thèmes diverses.  
  
 ![bannière]()
+
+­­> Le Centre est située à cette adresse: 2 R. de la Commune O, Montréal, QC H2Y 4B2. La visite à été effectuée le 10 avril > 2024. Les installations sont permanentes et intéractives.
 
 # ⭐ Installation - Meca500
 
 ![]()
 
-Le Meca500 est un robot industriel créé pour éffectuer des mouvements très précis. 
+Le Meca500 est un robot industriel créé pour éffectuer des mouvements très précis. Il a été fabriqué à Montréal par la compagnie **Mecademic Robotics**. C'est un robot très légé, compact et simple à utiliser. La version installée au Centre des sciences de Montréal est adaptée pour les enfants avec une touche plus amusante.
   
 ![]()
 
+On y vois des visages sur la ''tête'' du robot. Ceux-ci changent selon les cartes placées     
   
 ![]()
 
