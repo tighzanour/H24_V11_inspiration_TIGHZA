@@ -1,11 +1,11 @@
-# ⭐ Age of Union 
+# 🌎 Age of Union 
 Le 2 mars, j'ai visité le centre Age of Union. C'est un centre d'art, de culture et de nature situé à Montréal. Il vise à conscientiser les visiteurs aux enjeux environnementaux ainsi qu'à la crise climatique. On y trouve notamment des expositions, des expériences immersives, des films, des ateliers et bien encore.
  
 ![bannière]()
 
 ­­> Le Centre est située à cette adresse: 7049 Rue Saint-Urbain, Montréal, QC H2S 3H4. La visite à été effectuée le 2 mars 2024. Les installations sont temporaires et intéractives.
 
-# ⭐ Installation - Earth Room
+# 🌎 Installation - Earth Room
 
 ![]()
 ## Concept
@@ -22,7 +22,7 @@ Chaque animal est lié à une tonalité différente. Voici les détails:
 -  Renard - 10 Hz
 ![]()
 
-# ⭐ Précision techniques
+# 🌎 Précision techniques
 Voici ce que j'ai appris à propos des paramètres techniques de cette installation: 
 - des oscillateurs à cristal ''crystal oscillator'' sont installés pour osciller à une fréquence stable lorsqu'ils sont stimulés.
 - Ondes Delta (0,1 à 3,5 Hz) : Lorsque ces ondes augmentent, notre conscience du monde physique diminue.
@@ -31,14 +31,16 @@ Voici ce que j'ai appris à propos des paramètres techniques de cette installat
 
 ![]()
 
-# ⭐ Mon expérience  
+# 🌎 Mon expérience  
 **Voici les aspects qui m'ont plus à cette exposition:**
 - L'expérience est reposante
-- 
+- Le décor est surprenant et très bien adapté au thème
+- Les informations sont claires et bien expliquées
 
   
 **Voici l'aspect qui me dérange/ que j'apprécie moins:**
-- L'accès aux informations technique est difficile. 
+- L'accès aux informations technique est difficile.
+- La pièce est trop petite
 _________________________
 
 sources: https://ageofunion.com/
