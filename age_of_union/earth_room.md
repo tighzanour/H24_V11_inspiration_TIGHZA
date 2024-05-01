@@ -13,27 +13,27 @@ Le Meca500 est un robot industriel créé pour éffectuer des mouvements très p
   
 ![]()
 
-On y vois des visages sur la ''tête'' du robot. Ceux-ci changent selon les cartes placées     
+Le robot danse! L'objectif de cette installation divertissante est de faire danser le robot. Les visiteurs placent des blocs rectangulaires dans l'ordre qu'ils souhaitent. Ces blocs représentent chacun un mouvement différent et des expressions faciales qui vont avec. Le robot peut baisser la tête, la balancer se déplacer sur différents axes tout en affichant des sourires et des regards surpris. Une fois que les 6 mouvements choisis ont été exécutés, le robot s'arrête et permet aux visiteurs de tester une nouvelle combinaison de blocs.   
   
 ![]()
 
 # ⭐ Précision techniques
- Il est important de parler du travail technique accompli pour garrantir un tel résultat. Ces paramètres techniques sont nécessaires à l'exposition pour l'**immersion** ainsi que la **contemplation**. Voici ce que j'en ai appris: 
- - Comme indiqué plus haut, le sol est recouvert d'un tapis confortable et contient aussi des endroits pour s'asseoir, permettant aux spectateurs de profiter de différents angles de vues pour contempler les écrans.
- - Ce sont des hauts parleurs puissants et efficaces qui participent grandement à l'immersion que propose l'oeuvre. Ils sont placés à des endroits stratégiques, notamment les ''sub'' qui sont cachés dans les coins de la salle et permettent d'envoyer des fréquences graves. 
- - Il y a evidemment des projecteurs pour les écrans et la lumière dynamique, ceux-ci sont aussi placés de manière réfléchie afin d'intensifier l'immersion. 
+Voici ce que j'ai appris à propos des paramètres techniques de cette installation: 
+- Le robot ne pèse que 4,6 kg.
+- Il est équipée d'un bras robotique d'une portée de 225 mm, d'un bois de 4,3 kg et peut être monté sur une table ou au plafond.
+- Le robot se connecte simplement à un ordinateur avec un cable Ethernet et peut utiliser la plus part des languages de programmations (Java, C#, Python, etc.)
+- Il y a un haut-parleur intégré à la table pour le son.
 
 ![]()
 
 # ⭐ Mon expérience  
 **Voici les aspects qui m'ont plus à cette exposition:**
-- Les informations disponibles pour mieux comprendre l'oeuvre
-- La synchronisation des écrans entre eux
-- La manière dont les écrans ont été placés
-- Le travail sonore effectué dans la pièce
-- Les détails en lien avec l'expérience (tapis, distance des ecrans par rapport aux bancs,etc)
+- L'installation est intuitive est facile à comprendre
+- La fluidité des mouvements du robot est impressionnante
+- La qualité du son émis par les hauts parleurs
+- Les couleurs utilisées sont bien choisies
   
 **Voici l'aspect qui me dérange/ que j'apprécie moins:**
-- À certains moments, le jeu de lumière devient agressif sans avertissement. Je pense qu'il serait important de penser davantage aux potencielles réactions négatives face aux écrans.
+- L'accès aux informations technique est difficile. 
 
 
