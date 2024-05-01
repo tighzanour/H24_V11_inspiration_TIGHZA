@@ -24,19 +24,18 @@ Chaque animal est lié à une tonalité différente. Voici les détails:
 
 # ⭐ Précision techniques
 Voici ce que j'ai appris à propos des paramètres techniques de cette installation: 
-- Le robot ne pèse que 4,6 kg.
-- Il est équipée d'un bras robotique d'une portée de 225 mm, d'un bois de 4,3 kg et peut être monté sur une table ou au plafond.
-- Le robot se connecte simplement à un ordinateur avec un cable Ethernet et peut utiliser la plus part des languages de programmations (Java, C#, Python, etc.)
-- Il y a un haut-parleur intégré à la table pour le son.
+- des oscillateurs à cristal ''crystal oscillator'' sont installés pour osciller à une fréquence stable lorsqu'ils sont stimulés.
+- Ondes Delta (0,1 à 3,5 Hz) : Lorsque ces ondes augmentent, notre conscience du monde physique diminue.
+- Ondes Théta (0,3 à 7,5 Hz) : Ces ondes sont élévées lorsqu'on médite, prie et autres moments de conscience spirituelle.
+- Ondes Alpha (8 à 12 Hz) : C'est un rythme qui advient lorsqu'on est en relaxation. Il fait le lien entre le consicent et le subconscient.
 
 ![]()
 
 # ⭐ Mon expérience  
 **Voici les aspects qui m'ont plus à cette exposition:**
-- L'installation est intuitive est facile à comprendre
-- La fluidité des mouvements du robot est impressionnante
-- La qualité du son émis par les hauts parleurs
-- Les couleurs utilisées sont bien choisies
+- L'expérience est reposante
+- 
+
   
 **Voici l'aspect qui me dérange/ que j'apprécie moins:**
 - L'accès aux informations technique est difficile. 
