@@ -35,12 +35,15 @@ Voici ce que j'ai appris à propos des paramètres techniques de cette installat
   
 
 Hauts-parleurs
+
 ![](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/age_of_union/medias/hauts_parleurs.jpg)
 
 Plafond
+
 ![](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/age_of_union/medias/plafond.jpg)
 
 Cables
+
 ![](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/age_of_union/medias/fils.jpg)
 
 
