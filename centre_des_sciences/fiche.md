@@ -4,6 +4,7 @@ Nous avons visité le Centre des sciences le 10 avril dans le Vieux-Port de Mont
 ![bannière](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/centre_des_sciences/medias/banni%C3%A8re.png)
 ![bannière](https://github.com/tighzanour/H24_V11_inspiration_TIGHZA/blob/main/centre_des_sciences/medias/explore.png)
 
+
 ­­> Le Centre est située à cette adresse: 
 > 2 R. de la Commune O, Montréal, QC H2Y 4B2. La visite à été effectuée le 10 avril 2024. Les installations sont permanentes et intéractives.
 
